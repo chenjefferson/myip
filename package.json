@@ -1,0 +1,22 @@
+{
+  "name": "@chenjefferson/myip",
+  "version": "1.0.0",
+  "description": "Fast middleware to get IPs for Express servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjefferson/myip.git"
+  },
+  "author": "chenjefferson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenjefferson/myip/issues"
+  },
+  "homepage": "https://github.com/chenjefferson/myip#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
