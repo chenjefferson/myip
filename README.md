@@ -4,7 +4,7 @@ MyIP is a Node.js server that provides an API that returns your IP.
 
 ## Demo
 
-To check out the functionality of the site, make a GET request [here](https://whispering-fortress-86374.herokuapp.com/api/myip).
+[Click here.](https://whispering-fortress-86374.herokuapp.com/api/myip) You could also make a GET request to https://whispering-fortress-86374.herokuapp.com/api/myip.
 
 ## Usage
 
